@@ -1,8 +1,10 @@
 # imgur-clone
-A web application that works similarly to Imgur. It allows users to create an account/login with password hashing implemented. Users can view images, comment on albums, create albums, upload images and, like/favorites albums.
+A Maven web application that works similarly to Imgur. It allows users to create an account/login with password hashing implemented. Users can view images, comment on albums, create albums, upload images and, like/favorites albums.
 
 ## Technologies
 • Java 1.8
+
+• Maven
 
 • Spring Framework 4.3.27
 
@@ -13,11 +15,15 @@ A web application that works similarly to Imgur. It allows users to create an ac
 
 • Postgres 42.2.18
 
-• JUnit 4.12
+• Amazon RDS
 
 • Amazon AWS S3 SDK
 
+• JUnit 4.12
+
 • Apache Tomcat
+
+• Angular 4
 
 
 ## Getting Started
