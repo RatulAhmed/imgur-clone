@@ -29,7 +29,7 @@ A Maven web application that works similarly to Imgur. It allows users to create
 ## Getting Started
 
 ### Pre-requisites
-Please ensure you have the following installed prior to cloneing this repository:
+Please ensure you have the following installed prior to cloning this repository:
 - Java 1.8 SDK
 - Maven
 
