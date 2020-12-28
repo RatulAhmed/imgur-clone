@@ -39,7 +39,7 @@ Please ensure you have the following installed prior to cloning this repository:
 
         AWSAccessKeyId=YOUR_AWS_ACCESS_KEY
         AWSSecretKey=YOUR_AWS_SECRET_KEY
-        region=us-east-1
+        region=your_s3_bucket_region
 
 • datasource.properties
 
