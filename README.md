@@ -35,7 +35,7 @@ Please ensure you have the following installed prior to cloning this repository:
 
 
 ### Required Files
-• AwsCrendtials.properties
+• AwsCredentials.properties
 
         AWSAccessKeyId=YOUR_AWS_ACCESS_KEY
         AWSSecretKey=YOUR_AWS_SECRET_KEY
